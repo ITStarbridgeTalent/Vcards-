@@ -2,16 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 N:Till;Felix;;;
 FN:Felix Till
-FN;LANG=de:Felix Till
-FN;LANG=en:Felix Till
 ORG:Starbridge Talent;
-TITLE:Co-Founder & CEO
-TITLE;LANG=de:Mitgründer & Geschäftsführer (Co-Founder & CEO)
-TITLE;LANG=en:Co-Founder & CEO
+TITLE:Co-Founder & CEO (Mitgründer & Geschäftsführer)
 TEL;TYPE=CELL,VOICE:+4915150426490
 EMAIL;TYPE=INTERNET,WORK:customers@starbridgetalent.com
 URL:https://de.starbridgetalent.com/
 URL:https://calendly.com/felix-till-starbridgetalent/30min
 URL:https://www.linkedin.com/in/felix-till-20b372131
-NOTE:30-minütiges, unverbindliches Einführungsgespräch zu datengetriebener Rekrutierung (Expert:innen- und Managementrollen). Languages: German, English.
+NOTE:30-minute, non-binding introductory meeting on data-driven recruiting for expert and management roles. Languages: English, German. / 30-minütiges, unverbindliches Einführungsgespräch zu datengetriebener Rekrutierung (Expert:innen- und Managementrollen). Sprachen: Englisch, Deutsch.
 END:VCARD
